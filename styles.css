@@ -43,6 +43,9 @@ body {
 }
 .equi-img {
   position: relative;
+  margin: 0;
+  width: 250px;
+  height: 250px;
 }
 .equi-img:hover::before,
 .equi-img:focus::before {
